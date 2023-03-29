@@ -1,0 +1,12 @@
+{"label":"SKILL","pattern":[{"TEXT":".NET"}]}
+{"label":"SKILL","pattern":[{"LOWER":""},{"LOWER":"net"}]}
+{"label":"SKILL","pattern":[{"LOWER":"cambridge"}, {"LOWER":"school"}]}
+{"label":"SKILL","pattern":[{"LOWER":"cambridge"}, {"LOWER":"international"}]}
+{"label":"SKILL","pattern":[{"LOWER":"cambridge"}, {"LOWER":"international"}, {"LOWER":"school"}]}
+{"label":"SKILL","pattern":[{"LOWER":"igcse introductory"}]}
+{"label":"SKILL","pattern":[{"LOWER":"igcse extension"}]}
+{"label":"SKILL","pattern":[{"LOWER":"igcse"}]}
+{"label":"SKILL","pattern":[{"LOWER":"mathematics 0580"}]}
+{"label":"SKILL","pattern":[{"LOWER":"igcse"},{"LOWER":"exam"}]}
+{"label":"SKILL","pattern":[{"LOWER":"marking"},{"LOWER":"workshop"}]}
+
